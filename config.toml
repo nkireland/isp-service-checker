@@ -1,0 +1,4 @@
+[app]
+interval_seconds = 60
+log_file = "internet_metrics.csv"
+
